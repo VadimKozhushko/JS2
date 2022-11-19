@@ -1,0 +1,51 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 123,
+            "product_name": "Куртка",
+            "product_img": "img/product1.jpg",
+            "price": 45600,
+            "quantity": 32
+        },
+        {
+            "id_product": 456,
+            "product_name": "Худи",
+            "product_img": "img/product3.png",
+            "price": 1000,
+            "quantity": 13
+        },
+        {
+            "quantity": 11,
+            "id_product": 457,
+            "product_name": "Чиносы",
+            "product_img": "img/product4.jpg",
+            "price": 3000
+        },
+        {
+            "quantity": 6,
+            "id_product": 124,
+            "product_img": "img/product1.jpg",
+            "product_name": "Куртка",
+            "product_info": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": 52
+        },
+        {
+            "quantity": 1,
+            "id_product": 125,
+            "product_img": "img/product5.png",
+            "product_name": "Женский педжак",
+            "product_info": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": 100
+        },
+        {
+            "quantity": 1,
+            "id_product": 500,
+            "product_img": "img/product6.jpg",
+            "product_name": "Блузка",
+            "product_info": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": 100
+        }
+    ]
+}
