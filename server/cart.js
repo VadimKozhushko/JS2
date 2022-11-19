@@ -11,9 +11,8 @@ const change = (cart, req) => {
 const remove = (cart, req) => {
   let index = cart.contents.findIndex((el) => el.id_product === +req.params.id);
 
-  if (index) {
-    cart.contents.splice(index,1);
-  }
+  cart.contents.splice(index,1);
+  
   return JSON.stringify(cart, null, 4);
 };
 
